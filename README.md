@@ -17,6 +17,8 @@ After putting the keyboard side of things together, I realised that there would 
 
 The ADSR is taken from [Benjie Jiao's MiniADSR](https://benjiaomodular.com/post/2022-02-02-mini-adsr/) which in turn is taken from [René Schmitz' Fastest Envelope in the West.](https://www.schmitzbits.de/adsr.html) I like Benjie, he has always been kind, replies to me on insty and makes some cool stuff. 
 
+![ADSR in action](/Pix/ADSR.gif)
+
 I slapped the ADSR together and hooked the gate out from the keyboard straight to the ADSR so that way if you dont have anything plugged into either of them the gate will trigger the ADSR so it all works together. BUT you can still use them independently from each other etc etc blah blah blah
 
 Also the schematic here is a mess, I'm not going to tidy it up, sorry not sorry.
@@ -24,6 +26,8 @@ Also the schematic here is a mess, I'm not going to tidy it up, sorry not sorry.
 ## Panel stuff
 
 I make my panels out of 3mm acrylic / perspex. I get them laser cut at a local(ish) place which costs hardly anything. Your local library or makerspace could also do this for you. I suppose I do this as I reckon they would look terrible if I cut them myself out of aluminium or whatever. I suppose I could get them done at a metal fabricators. 
+
+![Panel](/Pix/panel.gif)
 
 ANYWAY 3mm acrylic is sturdy enough (2mm is not), I can paint it afterwards if I want and I can leave the LEDs under, not poking through. I think this will become more handy as Im starting to get brave enough to do some SMD stuff. I'm getting off track here...
 
