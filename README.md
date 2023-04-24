@@ -3,6 +3,9 @@ A CV/GATE keyboard with ADSR for Eurorack or other modular synthesizers
 
 So I had been hanging out for a really simple little CV/GATE Keyboard for my modular setup. Like I've got a Beatstep, but having to get that out and separate power.... ugh. Instead I wanted something smack bang right in the rack, Easy peasy! I couldnt find anything that was in a Euro format so thats why I have put this together.
 
+![PCB](/Pix/board.gif)
+
+
 ## The Design / Stealing from more talented people
 
 Sure I think something could be done with arduino really easily, but the amount of times I've just been confused with the coding lead me to to [Ken Stones CGS-10](https://www.elby-designs.com/webtek/cgs/cgs10/cgs10_pedal.html). Ken Stone's design was for a matrix style keyboard which could be hooked up to an existing keyboard or buttons wired. His design is a little more than 1 octave, but because of size limitations and wanting it to look a bit pretty, I chopped off a couple notes. I have left the X and Y points for the matrix so if you wanted you could ignore the keyboard on the PCB and wire up your own buttons.
