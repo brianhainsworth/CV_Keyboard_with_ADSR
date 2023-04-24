@@ -1,9 +1,9 @@
-# CV_Keyboard_with_ADSR
+# CV Keyboard with ADSR
 A CV/GATE keyboard with ADSR for Eurorack or other modular synthesizers 
 
 So I had been hanging out for a really simple little CV/GATE Keyboard for my modular setup. Like I've got a Beatstep, but having to get that out and separate power.... ugh. Instead I wanted something smack bang right in the rack, Easy peasy! I couldnt find anything that was in a Euro format so thats why I have put this together.
 
-## The Design / Stealing from more talented people ##
+## The Design / Stealing from more talented people
 
 Sure I think something could be done with arduino really easily, but the amount of times I've just been confused with the coding lead me to to [Ken Stones CGS-10](https://www.elby-designs.com/webtek/cgs/cgs10/cgs10_pedal.html). Ken Stone's design was for a matrix style keyboard which could be hooked up to an existing keyboard or buttons wired. His design is a little more than 1 octave, but because of size limitations and wanting it to look a bit pretty, I chopped off a couple notes. I have left the X and Y points for the matrix so if you wanted you could ignore the keyboard on the PCB and wire up your own buttons.
 
@@ -18,7 +18,7 @@ I slapped the ADSR together and hooked the gate out from the keyboard straight t
 
 Also the schematic here is a mess, I'm not going to tidy it up, sorry not sorry.
 
-## Panel stuff ##
+## Panel stuff
 
 I make my panels out of 3mm acrylic / perspex. I get them laser cut at a local(ish) place which costs hardly anything. Your local library or makerspace could also do this for you. I suppose I do this as I reckon they would look terrible if I cut them myself out of aluminium or whatever. I suppose I could get them done at a metal fabricators. 
 
@@ -29,7 +29,7 @@ With the 3mm acrylic there are a couple considerations...
 - You gotta use the cheaper not threaded potentiometers. The height clearance of these means that the keyboard section will be too low on the panel, but maybe your into that, whatever. If I had picked different buttons you could probably use the threaded pots.
 
 
-### Credits ###
+## Credits ###
 
 CV/GATE keyboard design by Ken Stone - copyright 2001 by Ken Stone
 
